@@ -1,7 +1,7 @@
-- 👋 Hi, I’m FoX
+- 👋 Hi, I’m Nick
 - 👀 I’m interested in games and music
-- 🌱 I’m currently learning Game Design at the Hanze University of Applied Science
-- 💞️ I’m looking to collaborate on my group projects
+- 🌱 I’m currently learning Creative Media and Game Technologies at the Hanze University of Applied Science.
+- 💞️ I’m looking to collaborate on my group projects and level up my coding skills.
 - 📫 How to reach me: Discord FoX#6580
 
 <!---
